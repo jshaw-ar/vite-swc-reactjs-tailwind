@@ -1,0 +1,13 @@
+{
+"manifest": "arweave/paths",
+"version": "0.1.0",
+"paths": {
+"assets/Feed-5d5c254c.js":{"id":"24HYyuRHw-Ner9hbfKqe55IwXY7zaqP2yUEf1IYZMjA"},
+"index.html":{"id":"ZQL8kQSjVFgdPXS3cOO4zTSvhbF9YTD0IxcE9TvpbsE"},
+"vite.svg":{"id":"xsv3vgmxVbEc11ypBaSUo2jxtDRfqc_uDPqrDFCjtgA"},
+"assets/Player-f71e24d5.js":{"id":"jnWuvGxCwTrMYBUn6zpkicOb7hWdTbuRodnRpTVso_c"},
+"assets/index-b3359b77.js":{"id":"i0gPyxnqviJFi4PYh6m3MTNqtDYNx18AJIZOip6R6IA"},
+"assets/index-e8145c06.css":{"id":"I48kE-6ImE_pAWu2LLenDA1h5arvdvulPi9Jv2JN6ME"}
+},
+"index":{"path":"index.html"}
+}
